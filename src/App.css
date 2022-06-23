@@ -36,3 +36,229 @@
     transform: rotate(360deg);
   }
 }
+.appmac{
+  padding-left: 20rem;
+}
+.ss{
+  background: url("../src/Images/mac.png");
+  width:100vw;
+  height:150vh;
+  background-color: #282c34;
+  background-size: cover;
+ 
+
+  
+
+}
+.box{
+  width:60vw;
+  height:40vh;
+  padding-top:43rem;
+  padding-left: 35rem;
+
+  color:#c6e2e6;
+  
+
+}
+.box h1{
+  font-size: 5rem;
+}
+.box button {
+  border-radius: 20px;
+  background-color: #282c34;
+  color:#c6e2e6;
+  padding:20px;
+}
+.box button a{
+  color: #c6e2e6;
+  text-decoration: none;
+}
+.box a:hover{
+  color: #c6e2e6;
+}
+.macair h1{
+  background-color: white;
+  margin-top:10rem;
+  font-weight: bolder;
+  font-size: 5rem;
+}
+img{
+  width:50vw;
+  height:50vh;
+  margin-left:20rem;
+  margin-top:7rem;
+
+}
+.mac_details{
+  width:30vw;
+  height:70vh;
+  margin-left:30rem;
+  margin-top: 8rem;
+  font-size:1.3rem;
+  
+}
+.btn-one{
+  border-radius: 1.5rem;
+  background-color: white;
+  outline: none;
+}
+.btn-one:hover{
+  background-color: black;
+  color:white;
+  
+
+}
+.iphone{
+  background:url("../src/Images/mac2.jpg");
+  width:100vw;
+  height:100vh;
+  background-size: cover;
+  
+
+}
+.subsection{
+  width:100%;
+ background-size: cover;
+  height:50vh;
+  background-color:rgb(249, 246, 246);
+
+
+}
+.subsection_one{
+  width:30rem;
+  margin-left: 30rem;
+}
+.subsection_one button{
+  margin-left: 8rem;
+  margin-top:4rem;
+  font-size: 1.5rem;
+  border-radius: 20rem;
+  padding: 0.5rem;
+}
+.subsection_one button:hover{
+  color:white;
+  background-color: #282c34;
+}
+.mac_venture{
+  background-color: rgb(249, 246, 246);
+  
+  height:150vh;
+  
+}
+.mac_venture_1{
+  width:100%;
+  height:100vh;
+}
+.mac_venture h1{
+  padding-left: 30rem;
+  font-size: 5rem;
+  
+}
+.info{
+  width:30rem;
+  margin-left:30rem;
+
+}
+.info button{
+  margin-left: 8rem;
+  margin-top:4rem;
+  font-size: 1.5rem;
+  border-radius: 20rem;
+  padding: 0.5rem;
+}
+.info button:hover{
+  color:white;
+  background-color: #282c34;
+}
+.ipados_16{
+  background-color: rgb(249, 246, 246);
+  height:160vh;
+  
+}
+.ipados_16 h1{
+  padding-left: 33rem;
+ padding-top: 2rem;
+  font-size: 5rem;
+}
+.ipados_16_1 img {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100vh;
+}
+.info_1{
+  width:30rem;
+  margin-left:33rem;
+}
+.info_1 button{
+  margin-left: 8rem;
+  margin-top:4rem;
+  font-size: 1.5rem;
+  border-radius: 20rem;
+  padding: 0.5rem;
+  
+}
+.info_1 button:hover{
+  color:white;
+  background-color: #282c34;
+}
+.macbook{
+  background-color: #1d1d1f;
+  color:white;
+  width:100%;
+  height:150vh;
+  
+}
+.macbook_1 img{
+  width:100%;
+  padding:0;
+  margin:0;
+  height:80vh;
+
+}
+.macbook h1{
+  padding-left: 30rem;
+ padding-top: 2rem;
+  font-size: 5rem;
+}
+.info_2 {
+  color:white;
+  width:30rem;
+  margin-left:33rem;
+
+}
+.info_2 h3{
+
+  padding-left: 3rem;
+  padding-top: 2rem;
+}
+.info_2 span{
+  background-color: #282c34;
+  box-shadow: 1px 2px 3px pink;
+}
+.info_2 h6{
+  padding-left:4rem;
+  padding-top:4rem;
+  font-size: 1.5rem;
+  color:gray;
+  font-weight: bolder;
+}
+.info_2 button{
+  margin-left: 4rem;
+  border-radius: 20rem;
+  margin-top:2rem;
+  padding:0.6rem;
+  
+}
+.info_2 button:hover{
+  background-color: #1d1d1f;
+  color:white;
+}
+.footer{
+  background-color: #282c34;
+  width:100%;
+  height:80vh;
+}
+
+
+
